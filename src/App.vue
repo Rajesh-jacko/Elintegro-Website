@@ -101,7 +101,7 @@
       >
         <v-app-bar-nav-icon @click="drawer = true"></v-app-bar-nav-icon>
 
-        <img src="./assets/img/logo.png" style="transform: rotate(-0.9deg)" />
+        <img src="./assets/img/logo.png" style="transform: rotate(-0.9deg)"/>
         <v-toolbar-title></v-toolbar-title>
       </v-app-bar>
 
